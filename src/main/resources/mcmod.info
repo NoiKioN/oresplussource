@@ -1,0 +1,16 @@
+[
+{
+  "modid": "oresplus",
+  "name": "Ores+++",
+  "description": "Adds multiple more ores and items to your gaming experience.",
+  "version": "1.0.0.1",
+  "mcversion": "1.10.2",
+  "url": "https://bitbucket.org/NKeNtertainment/oresplus",
+  "updateUrl": "https://bitbucket.org/NKeNtertainment/oresplus",
+  "authorList": ["NoiKioN"],
+  "credits": "The member of nNKN: NoiKioN",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
