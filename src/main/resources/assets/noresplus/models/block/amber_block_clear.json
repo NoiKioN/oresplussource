@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "noresplus:blocks/amber_block_clear"
+    }
+}

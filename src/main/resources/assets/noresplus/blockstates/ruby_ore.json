@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": {
+            "model": "noresplus:ruby_ore"
+        }
+    }
+}

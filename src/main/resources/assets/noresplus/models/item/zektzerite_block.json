@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "noresplus:blocks/zektzerite_block_clear",
+        "down": "noresplus:blocks/zektzerite_block_down",
+        "north": "noresplus:blocks/zektzerite_block_sides",
+        "east": "noresplus:blocks/zektzerite_block_sides",
+        "south": "noresplus:blocks/zektzerite_block_sides",
+        "west": "noresplus:blocks/zektzerite_block_sides"
+    }
+}

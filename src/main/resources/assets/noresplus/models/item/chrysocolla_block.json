@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "noresplus:blocks/chrysocolla_block_up",
+        "down": "noresplus:blocks/chrysocolla_block_down",
+        "north": "noresplus:blocks/chrysocolla_block_north",
+        "east": "noresplus:blocks/chrysocolla_block_east",
+        "south": "noresplus:blocks/chrysocolla_block_south",
+        "west": "noresplus:blocks/chrysocolla_block_west"
+    }
+}

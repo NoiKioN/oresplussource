@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "noresplus:blocks/amber_block_particle",
+        "up": "noresplus:blocks/amber_block_up",
+        "down": "noresplus:blocks/amber_block_down",
+        "north": "noresplus:blocks/amber_block_north",
+        "east": "noresplus:blocks/amber_block_east",
+        "south": "noresplus:blocks/amber_block_south",
+        "west": "noresplus:blocks/amber_block_west"
+    }
+}

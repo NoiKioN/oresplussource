@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "noresplus:blocks/ruby_block_particle",
+        "up": "noresplus:blocks/ruby_block_clear",
+        "down": "noresplus:blocks/ruby_block_down",
+        "north": "noresplus:blocks/ruby_block_sides",
+        "east": "noresplus:blocks/ruby_block_sides",
+        "south": "noresplus:blocks/ruby_block_sides",
+        "west": "noresplus:blocks/ruby_block_sides"
+    }
+}

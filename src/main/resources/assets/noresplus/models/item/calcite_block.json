@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "noresplus:blocks/calcite_block_clear",
+        "down": "noresplus:blocks/calcite_block_down",
+        "north": "noresplus:blocks/calcite_block_sides",
+        "east": "noresplus:blocks/calcite_block_sides",
+        "south": "noresplus:blocks/calcite_block_sides",
+        "west": "noresplus:blocks/calcite_block_sides"
+    }
+}

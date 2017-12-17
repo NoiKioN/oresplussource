@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "noresplus:blocks/beryl_block_up",
+        "down": "noresplus:blocks/beryl_block_down",
+        "north": "noresplus:blocks/beryl_block_north",
+        "east": "noresplus:blocks/beryl_block_east",
+        "south": "noresplus:blocks/beryl_block_south",
+        "west": "noresplus:blocks/beryl_block_west"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "noresplus:blocks/cordierite_block_up",
+        "down": "noresplus:blocks/cordierite_block_down",
+        "north": "noresplus:blocks/cordierite_block_north",
+        "east": "noresplus:blocks/cordierite_block_east",
+        "south": "noresplus:blocks/cordierite_block_south",
+        "west": "noresplus:blocks/cordierite_block_west"
+    }
+}

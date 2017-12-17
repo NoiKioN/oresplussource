@@ -13,19 +13,18 @@ buildscript {
     }
 }
 apply plugin: 'net.minecraftforge.gradle.forge'
-
 /*
 // for people who want stable - not yet functional for MC 1.8.8 - we require the forgegradle 2.1 snapshot
 plugins {
-    id "net.minecraftforge.gradle.forge" version "2.0.2"
+id "net.minecraftforge.gradle.forge" version "2.0.2"
 }
-*/
-version = "1.0.0.1"
-group= "com.noikion.oresplus" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "oresplus"
+ */
+version = "1.4.0"
+group= "com.noikion.noresplus" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "noresplus"
 
 minecraft {
-    version = "1.10.2-12.18.1.2011"
+    version = "1.10.2-12.18.1.2066"
     runDir = "run"
     
     // the mappings can be changed at any time, and must be in the following format.

@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "noresplus:blocks/gaspeite_block_up",
+        "down": "noresplus:blocks/gaspeite_block_down",
+        "north": "noresplus:blocks/gaspeite_block_sides",
+        "east": "noresplus:blocks/gaspeite_block_sides",
+        "south": "noresplus:blocks/gaspeite_block_sides",
+        "west": "noresplus:blocks/gaspeite_block_sides"
+    }
+}
